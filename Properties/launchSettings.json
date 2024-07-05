@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FolderSync": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\joelf\\79-PF-06  C:\\Users\\joelf\\backup  1"
+    }
+  }
+}
